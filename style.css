@@ -1,0 +1,21 @@
+.box1 {
+    margin-bottom: 20px;
+    width: 100%;
+    height: 20%;
+
+
+}
+
+.box2 {
+    margin-bottom: 20px;
+    width: 100%;
+    height: 30%;
+
+
+}
+
+.font1 {
+    font: normal small-caps 500 32px/1.4 playfair display, serif;
+    margin-top: 40%;
+    margin-left: 20px;
+}
